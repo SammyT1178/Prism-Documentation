@@ -1,4 +1,4 @@
-Point of Sale
+#Point of Sale#
 
 	- Point of Sale
 		- New Transaction
