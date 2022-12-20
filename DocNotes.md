@@ -123,7 +123,15 @@ Tech Tool Kit
 Language
 
 Help
+	- Tech Tool Kit
+	- Help 
+	- Change Password
+		- See `Change Password`
 
+	- Index
+		- Links to https://my.retailpro.com/documentation/
+		- Works as anticipated
+	- About
 Change Password
 	- Functions as expected
 
