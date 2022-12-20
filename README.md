@@ -2,6 +2,7 @@
 
 ### Point of Sale ###
 - New Transaction
+	- Subsidiary not defined, need to look into documentation to figure out how to set this up
 - Transaction Lookup
 - Pending Transactions
 - New Disbursement
@@ -98,10 +99,10 @@
 		- New Employee
 			- Setting new username/password works
 				- Test values used: (username/password)
-					(sjt0134/4697!)
-					(ADMIN/ADMIN)
-					(TEST/TEST)
-					(USER/USER)
+					- (sjt0134/4697!)
+					- (ADMIN/ADMIN)
+					- (TEST/TEST)
+					- (USER/USER)
 				- Functions as expected
 
 		- Edit Employee
