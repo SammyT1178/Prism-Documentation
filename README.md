@@ -119,19 +119,28 @@
 ## Administration Console ##
 
 ## Tech Tool Kit ##
+- Links to the Tech Tool Kit
+- Requires a RPI account
 
 ## Language ##
+- Does not change language (could be some sort of ASCII conversion error?)
+- `Tech Tool Kit` and `Change Password` options are available above and below the `Language` option
 
 ## Help ##
+`Tech Tool Kit` and `Change Password` options are available above and below the `Help` option
 
 - Tech Tool Kit
+	- See `Tech Tool Kit`	
 - Help 
+	- Exits the Help menu, seems redundant. A simple back-arrow UI serves the same function and is universally known. 
 - Change Password
 	- See `Change Password`
 - Index
 	- Links to https://my.retailpro.com/documentation/
 	- Works as anticipated
 - About
+	- Pretty standard credit window
+	- Functions as anticipated 
 	
 ## Change Password ##
 - Functions as expected
