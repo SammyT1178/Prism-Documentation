@@ -118,10 +118,15 @@
 - Auto PO
 		
 ## Administration Console ##
+Country list starts at Tokelau, continues T-Z, then restarts A-T
+
+Error Pop-up Message Duration automatically set to 0. Allowing users to edit the duration for all three pop-up durations is a great addition, but the error pop-up would probably do best to not be set to stay on indefinitely. 
+
+Custom Seasons works as anticipated
 
 ## Tech Tool Kit ##
 - Links to the Tech Tool Kit
-- Requires a RPI account
+- Functions as anticipated 
 
 ## Language ##
 - Does not change language (could be some sort of ASCII conversion error?)
@@ -129,13 +134,9 @@
 
 ## Help ##
 `Tech Tool Kit` and `Change Password` options are available above and below the `Help` option
-
-- Tech Tool Kit
-	- See `Tech Tool Kit`	
+	
 - Help 
 	- Exits the Help menu, seems redundant. A simple back-arrow UI serves the same function and is universally known. 
-- Change Password
-	- See `Change Password`
 - Index
 	- Links to https://my.retailpro.com/documentation/
 	- Works as anticipated
