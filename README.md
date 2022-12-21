@@ -2,7 +2,7 @@
 
 ### Point of Sale ###
 - New Transaction
-	- Subsidiary not defined, need to look into documentation to figure out how to set this up
+	- Tendering transaction defaults the tender to cash, even when choosing options such as Credit Card or Check
 - Transaction Lookup
 - Pending Transactions
 - New Disbursement
@@ -10,17 +10,23 @@
 - Drawer Open
 - Change Till/Drawer
 - Check In
-	- Error 412 - Permission Denied (Admin Account clocking in non-Admin)
-	- Need to check permissions in employee details
+	- Works after setting up subsidiary
+	- No longer asks for login informaton
 - Check Out
-	- Error 412 - Permission Denied (Admin Account clocking in non-Admin)
-	- Need to check permissions in employee details
+	- Works after setting up subsidiary
+	- No longer asks for login informaton
 - Time Clock
+	- Modifying clock in/out time works as anticipated
+	- Could be improved by putting the time and date menus on the same window
+
 - Promotions
 		
 ### Customers ###
 - Customer Lookup
+	- Works as expected
+	- New/Edit works 
 - Customer Loyalty
+	- Have not been able to get into it yet :(
 		
 ### X/Z-Out ###
 - X-Out
