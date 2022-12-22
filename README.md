@@ -3,6 +3,9 @@
 ### Point of Sale ###
 - New Transaction
 	- Tendering transaction defaults the tender to cash, even when choosing options such as Credit Card or Check
+	- This can happen (See `Administration Console`)
+	![image](https://user-images.githubusercontent.com/61430214/209235985-a9242f13-a717-4915-991c-487028b084fb.png)
+
 - Transaction Lookup
 - Pending Transactions
 - New Disbursement
@@ -130,6 +133,8 @@
 		
 ## Administration Console ##
 Country list starts at Tokelau, continues T-Z, then restarts A-T
+![image](https://user-images.githubusercontent.com/61430214/209235620-51168d8a-af4b-4d8b-bb34-305ee3f76df7.png)
+![image](https://user-images.githubusercontent.com/61430214/209235702-23567c7e-a0c6-4d6c-a77e-43342bd398b8.png)
 
 Error Pop-up Message Duration automatically set to 0. Allowing users to edit the duration for all three pop-up durations is a great addition, but the error pop-up would probably do best to not be set to stay on indefinitely. 
 
