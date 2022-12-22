@@ -25,6 +25,11 @@
 - Customer Lookup
 	- Works as expected
 	- New/Edit works 
+	- Profile Photo upload works
+	- Webcam Photo capture blocked by Chrome, need to test with other browser maybe
+	- Title in Customer Details has no options (Assuming it's titles like Mr., Ms., Dr., etc.)
+	![image](https://user-images.githubusercontent.com/61430214/209202786-8fcee737-f910-4fe0-9993-77579c2706bb.png)
+
 - Customer Loyalty
 	- Have not been able to get into it yet :(
 		
@@ -128,7 +133,8 @@ Country list starts at Tokelau, continues T-Z, then restarts A-T
 
 Error Pop-up Message Duration automatically set to 0. Allowing users to edit the duration for all three pop-up durations is a great addition, but the error pop-up would probably do best to not be set to stay on indefinitely. 
 
-Custom Seasons works as anticipated
+Custom Seasons works as anticipated.
+	- Could be good to add the ability to manually sort seasons
 
 ## Tech Tool Kit ##
 - Links to the Tech Tool Kit
