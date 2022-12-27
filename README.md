@@ -23,8 +23,11 @@
 - Time Clock
 	- Modifying clock in/out time works as anticipated
 	- Could be improved by putting the time and date menus on the same window
+	- Could also improve by setting the default sort to Event Date Descending
 
 - Promotions
+	- Saving promotions seems to work
+	- Getting the promotions to show on POS transaction may need to take more testing
 		
 ### Customers ###
 - Customer Lookup
@@ -36,7 +39,7 @@
 	![image](https://user-images.githubusercontent.com/61430214/209202786-8fcee737-f910-4fe0-9993-77579c2706bb.png)
 
 - Customer Loyalty
-	- Have not been able to get into it yet :(
+	- Finally managed to get into it, will test more
 		
 ### X/Z-Out ###
 - X-Out
