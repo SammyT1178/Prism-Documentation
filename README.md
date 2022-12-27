@@ -7,7 +7,9 @@
 	![image](https://user-images.githubusercontent.com/61430214/209235985-a9242f13-a717-4915-991c-487028b084fb.png)
 
 - Transaction Lookup
+	- Seems to work as anticipated
 - Pending Transactions
+	- Seems to work as anticipated
 - New Disbursement
 - Dispersement Lookup
 - Drawer Open
@@ -147,10 +149,15 @@ Custom Seasons works as anticipated.
 
 ## Language ##
 - Does not change language (could be some sort of ASCII conversion error?)
+	- Using the Dutch language setting
+![image](https://user-images.githubusercontent.com/61430214/209696622-757e0f99-bbfb-43d5-a294-2d7f2ea355c9.png)
+
 - `Tech Tool Kit` and `Change Password` options are available above and below the `Language` option
+![image](https://user-images.githubusercontent.com/61430214/209696463-8ff505a0-99fc-4cee-8a9e-eaf95617a6f5.png)
 
 ## Help ##
 `Tech Tool Kit` and `Change Password` options are available above and below the `Help` option
+![image](https://user-images.githubusercontent.com/61430214/209696415-36de6a10-6ebb-488d-af51-b5f57bd554ba.png)
 	
 - Help 
 	- Exits the Help menu, seems redundant. A simple back-arrow UI serves the same function and is universally known. 
