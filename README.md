@@ -5,7 +5,7 @@
 	- Tendering transaction defaults the tender to cash, even when choosing options such as Credit Card or Check
 	- This can happen (See `Administration Console`)
 	![image](https://user-images.githubusercontent.com/61430214/209235985-a9242f13-a717-4915-991c-487028b084fb.png)
-
+	
 - Transaction Lookup
 	- Seems to work as anticipated
 - Pending Transactions
@@ -142,6 +142,7 @@ Country list starts at Tokelau, continues T-Z, then restarts A-T
 ![image](https://user-images.githubusercontent.com/61430214/209235702-23567c7e-a0c6-4d6c-a77e-43342bd398b8.png)
 
 Error Pop-up Message Duration automatically set to 0. Allowing users to edit the duration for all three pop-up durations is a great addition, but the error pop-up would probably do best to not be set to stay on indefinitely. 
+![image](https://user-images.githubusercontent.com/61430214/209851858-e706e70a-1a4b-4b6c-a30f-e781a1cb6548.png)
 
 Custom Seasons works as anticipated.
 	- Could be good to add the ability to manually sort seasons
