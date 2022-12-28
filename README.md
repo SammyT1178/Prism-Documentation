@@ -151,7 +151,8 @@ Custom Seasons works as anticipated.
 - Functions as anticipated 
 
 ## Language ##
-- Does not change language (could be some sort of ASCII conversion error?)
+- Does not change language (could be a language setting on the computer)
+- Changing Lauguage in `Administration Console` does not change language either 
 	- Using the Dutch language setting
 ![image](https://user-images.githubusercontent.com/61430214/209696622-757e0f99-bbfb-43d5-a294-2d7f2ea355c9.png)
 
