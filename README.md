@@ -147,12 +147,14 @@ Error Pop-up Message Duration automatically set to 0. Allowing users to edit the
 Custom Seasons works as anticipated.
 	- Could be good to add the ability to manually sort seasons
 
+Password Change requests function as anticipated
+
 ## Tech Tool Kit ##
 - Links to the Tech Tool Kit
 - Functions as anticipated 
 
 ## Language ##
-- Does not change language (could be a language setting on the computer)
+- Occasionally does not change language (could be a language setting on the computer)
 - Changing Lauguage in `Administration Console` does not change language either 
 	- Using the Dutch language setting
 ![image](https://user-images.githubusercontent.com/61430214/209696622-757e0f99-bbfb-43d5-a294-2d7f2ea355c9.png)
