@@ -75,8 +75,11 @@
 	- Options
 
 - Physical Inventory
+	- PI Sheets seem to export to PDF without any issue, will probably print to printer without issue as well
 - Vendors
+	- Adding/Editing vendors seem to function without any issues
 - Departments
+	- Adding/Edition Departments seem to function without any issues	
 - Cost Adjustment Memo
 - Price Adjustment Memo
 - Quantity Adjustment Memo
