@@ -27,8 +27,7 @@
 
 - Promotions
 	- Saving promotions seems to work
-	- Getting the promotions to show on POS transaction may need to take more testing
-		
+	- Getting the promotions to show on POS transaction may need to take more testing	
 ### Customers ###
 - Customer Lookup
 	- Works as expected
@@ -37,16 +36,12 @@
 	- Webcam Photo capture blocked by Chrome, need to test with other browser maybe
 	- Title in Customer Details has no options (Assuming it's titles like Mr., Ms., Dr., etc.)
 	![image](https://user-images.githubusercontent.com/61430214/209202786-8fcee737-f910-4fe0-9993-77579c2706bb.png)
-
 - Customer Loyalty
 	- Finally managed to get into it, will test more
-		
 ### X/Z-Out ###
 - X-Out
 - Z-Out
-		
 ## Store Operations ##
-
 ### Merchandise ###
 - Inventory
 	- List View
@@ -55,25 +50,22 @@
 		- Filters for Price Level and Season are useful additions
 			- Maybe order Season menu option chronologically rather than alphabetically
 				- (Winter -> Spring -> Summer -> Fall -> Holiday -> None)?
-
 	- New Inventory
 		- Item creation fairly straightforward
 		- Functions as expected
-
 	- Edit Inventory
 		- Functions as expected
-
 	- Activate/Deactivate
 		- Assuming this is used to place items into Active/Inactive tag
 		- Functions as expected
-
 	- Item Details
 		- Functions as expected
-
 	- Item Lookup/Style Lookup
-		- Filters by 
+		- Filters work as anticipated 
 	- Options
-
+		- The only option available is "Print Tags"
+			- Not sure if that's the only Inventory Option, if not ignore this note
+			- Else, cut the middleman by just renaming to Print/Print Tags
 - Physical Inventory
 	- PI Sheets seem to export to PDF without any issue, will probably print to printer without issue as well
 - Vendors
@@ -85,12 +77,10 @@
 - Quantity Adjustment Memo
 - Adjustment Memo Lookup
 - Price Manager
-
 ### Purchasing ###
 - New Purchase Order
 - Purchase Order Lookup
 - Pending Purchase Orders
-
 ### Receiving ###
 - New Voucher
 - Voucher Lookup
@@ -98,7 +88,6 @@
 - New ASN
 - ASN Lookup
 - Pending ASNs
-
 ### Transfers ###
 - New Transfer Slip
 - Transfer Slip Lookup
@@ -106,7 +95,6 @@
 - Transfer Verification
 - New Transfer Order
 - Transfer Orders Lookup
-
 ### Employees ###
 - Employee Management
 	- Employee Lookup
@@ -117,7 +105,6 @@
 			- Keep the toggles for Active/Inactive/All, but make the filter change automatic rather than require the use of a SEARCH
 			- Selecting the name should work to open the bottom row options like selecting the checkmark. 
 			- The filter via First Name/Last Name/Login works nice
-
 		- New Employee
 			- Setting new username/password works
 				- Test values used: (username/password)
@@ -126,19 +113,15 @@
 					- (TEST/TEST)
 					- (USER/USER)
 				- Functions as expected
-
 		- Edit Employee
 			- Functions as expected
-
 		- Details 
 			- Functions as expected
-
 		- Change Password
 			- Functions as expected
 ### Auto Tools ###
 - Auto Min/Max
-- Auto PO
-		
+- Auto PO		
 ## Administration Console ##
 Country list starts at Tokelau, continues T-Z, then restarts A-T
 ![image](https://user-images.githubusercontent.com/61430214/209235620-51168d8a-af4b-4d8b-bb34-305ee3f76df7.png)
@@ -151,11 +134,9 @@ Custom Seasons works as anticipated.
 	- Could be good to add the ability to manually sort seasons
 
 Password Change requests function as anticipated
-
 ## Tech Tool Kit ##
 - Links to the Tech Tool Kit
 - Functions as anticipated 
-
 ## Language ##
 - Occasionally does not change language (could be a language setting on the computer)
 - Changing Lauguage in `Administration Console` does not change language either 
@@ -164,7 +145,6 @@ Password Change requests function as anticipated
 
 - `Tech Tool Kit` and `Change Password` options are available above and below the `Language` option
 ![image](https://user-images.githubusercontent.com/61430214/209696463-8ff505a0-99fc-4cee-8a9e-eaf95617a6f5.png)
-
 ## Help ##
 `Tech Tool Kit` and `Change Password` options are available above and below the `Help` option
 ![image](https://user-images.githubusercontent.com/61430214/209696415-36de6a10-6ebb-488d-af51-b5f57bd554ba.png)
