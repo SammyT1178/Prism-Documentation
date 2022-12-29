@@ -17,8 +17,9 @@
 	![Disp_Lookup](https://user-images.githubusercontent.com/61430214/209995487-472be05f-52f8-427e-a461-1c12abeda0fc.png)
 
 - Drawer Open
-	- C
+	- Have not been able to test
 - Change Till/Drawer
+	- Have not been able to test
 - Check In
 	- Works after setting up subsidiary
 	- No longer asks for login informaton
