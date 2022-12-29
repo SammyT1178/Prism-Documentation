@@ -12,7 +12,12 @@
 	- Seems to work as anticipated
 - New Disbursement
 - Dispersement Lookup
+	- Not the largest issue, but when viewed in splitscreen, the Reset button no longer lines up with the rest of the buttons
+	- Since most POS sales would be done fullscreen, it's not an issue
+	![Disp_Lookup](https://user-images.githubusercontent.com/61430214/209995487-472be05f-52f8-427e-a461-1c12abeda0fc.png)
+
 - Drawer Open
+	- C
 - Change Till/Drawer
 - Check In
 	- Works after setting up subsidiary
