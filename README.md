@@ -11,9 +11,10 @@
 - Pending Transactions
 	- Seems to work as anticipated
 - New Disbursement
+	- Seems to work as anticipated
 - Dispersement Lookup
 	- Not the largest issue, but when viewed in splitscreen, the Reset button no longer lines up with the rest of the buttons
-	- Since most POS sales would be done fullscreen, it's not an issue
+	- Since most POS sales would be done fullscreen, it's not a major issue
 	![Disp_Lookup](https://user-images.githubusercontent.com/61430214/209995487-472be05f-52f8-427e-a461-1c12abeda0fc.png)
 
 - Drawer Open
@@ -30,7 +31,6 @@
 	- Modifying clock in/out time works as anticipated
 	- Could be improved by putting the time and date menus on the same window
 	- Could also improve by setting the default sort to Event Date Descending
-
 - Promotions
 	- Saving promotions seems to work
 	- Getting the promotions to show on POS transaction may need to take more testing	
@@ -47,6 +47,12 @@
 ### X/Z-Out ###
 - X-Out
 - Z-Out
+
+Language Option removed from the menu in both X/Z-Out screens
+
+![image](https://user-images.githubusercontent.com/61430214/210091268-d56e61d8-e029-4336-8f29-f40d1516e8ce.png)
+
+Both work as anticipated
 ## Store Operations ##
 ### Merchandise ###
 - Inventory
@@ -127,7 +133,14 @@
 			- Functions as expected
 ### Auto Tools ###
 - Auto Min/Max
-- Auto PO		
+- Auto PO	
+
+Both seem to function as anticipated
+
+Language Option removed from the menu in both Auto screens
+
+![image](https://user-images.githubusercontent.com/61430214/210091268-d56e61d8-e029-4336-8f29-f40d1516e8ce.png)
+
 ## Administration Console ##
 Country list starts at Tokelau, continues T-Z, then restarts A-T
 ![image](https://user-images.githubusercontent.com/61430214/209235620-51168d8a-af4b-4d8b-bb34-305ee3f76df7.png)
