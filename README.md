@@ -43,7 +43,7 @@
 	- Title in Customer Details has no options (Assuming it's titles like Mr., Ms., Dr., etc.)
 	![image](https://user-images.githubusercontent.com/61430214/209202786-8fcee737-f910-4fe0-9993-77579c2706bb.png)
 - Customer Loyalty
-	- Finally managed to get into it, will test more
+	- Seems to work as expected
 ### X/Z-Out ###
 - X-Out
 - Z-Out
@@ -76,7 +76,7 @@ Both work as anticipated
 		- Filters work as anticipated 
 	- Options
 		- The only option available is "Print Tags"
-			- Not sure if that's the only Inventory Option, if not ignore this note
+			- Not sure if that's the only Inventory Option, if so ignore this note
 			- Else, cut the middleman by just renaming to Print/Print Tags
 - Physical Inventory
 	- PI Sheets seem to export to PDF without any issue, will probably print to printer without issue as well
@@ -84,15 +84,14 @@ Both work as anticipated
 	- Adding/Editing vendors seem to function without any issues
 - Departments
 	- Adding/Edition Departments seem to function without any issues	
-- Cost Adjustment Memo
-- Price Adjustment Memo
-- Quantity Adjustment Memo
 - Adjustment Memo Lookup
 - Price Manager
 ### Purchasing ###
 - New Purchase Order
 - Purchase Order Lookup
 - Pending Purchase Orders
+
+All seem to work as expected. Adding a back button would be nice in details screen so a user isn't forced to choose the menu and retrek back to the lookup screen. 
 ### Receiving ###
 - New Voucher
 - Voucher Lookup
