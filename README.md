@@ -18,21 +18,21 @@
 	![Disp_Lookup](https://user-images.githubusercontent.com/61430214/209995487-472be05f-52f8-427e-a461-1c12abeda0fc.png)
 
 - Drawer Open
-	- Have not been able to test
+	- Works (allegedly) 
 - Change Till/Drawer
-	- Have not been able to test
+	- Seems to work while under an admin account
 - Check In
 	- Works after setting up subsidiary
-	- No longer asks for login informaton
+	- No longer asks for login information
 - Check Out
 	- Works after setting up subsidiary
-	- No longer asks for login informaton
+	- No longer asks for login information
 - Time Clock
 	- Modifying clock in/out time works as anticipated
 	- Could be improved by putting the time and date menus on the same window
 	- Could also improve by setting the default sort to Event Date Descending
 - Promotions
-	- Saving promotions seems to work
+	- Saving promotions seem to work
 	- Getting the promotions to show on POS transaction may need to take more testing	
 ### Customers ###
 - Customer Lookup
@@ -57,7 +57,7 @@ Both work as anticipated
 ### Merchandise ###
 - Inventory
 	- List View
-		- Inventory List only shows after filter is applied 
+		- Inventory List only shows after the filter is applied 
 			- See Employee List
 		- Filters for Price Level and Season are useful additions
 			- Maybe order Season menu option chronologically rather than alphabetically
@@ -77,13 +77,13 @@ Both work as anticipated
 	- Options
 		- The only option available is "Print Tags"
 			- Not sure if that's the only Inventory Option, if so ignore this note
-			- Else, cut the middleman by just renaming to Print/Print Tags
+			- Else, cut out the middleman by just renaming to Print/Print Tags
 - Physical Inventory
-	- PI Sheets seem to export to PDF without any issue, will probably print to printer without issue as well
+	- PI Sheets seem to export to PDF without any issue, will probably print to the printer without issue as well
 - Vendors
 	- Adding/Editing vendors seem to function without any issues
 - Departments
-	- Adding/Edition Departments seem to function without any issues	
+	- Adding/Edition Departments seems to function without any issues	
 - Adjustment Memo Lookup
 	- Memo lookup works as anticipated 
 	- Created date descending is good, sometimes conflicts with Memo No.
@@ -95,7 +95,7 @@ Both work as anticipated
 - Purchase Order Lookup
 - Pending Purchase Orders
 
-All seem to work as expected. Adding a back button would be nice in details screen so a user isn't forced to choose the menu and retrek back to the lookup screen. 
+All seems to work as expected. Adding a back button would be nice in the details screen so a user isn't forced to choose the menu and retrek back to the lookup screen. 
 ### Receiving ###
 - New Voucher
 - Voucher Lookup
@@ -112,14 +112,16 @@ Voucher/ASN menus work as anticipated. Would be good to be able to check multipl
 - Transfer Verification
 - New Transfer Order
 - Transfer Orders Lookup
+
+Began testing; New Transfer works as anticipated. Suffers from the same issues as `Receiving` in terms of UX & UI. 
 ### Employees ###
 - Employee Management
 	- Employee Lookup
 		- List View
-			- Employee list only shows once filter is applied and SEARCH button is activated. 
-			- It's functional, but a filter feels like it should be applied after a list of employees is given. 
+			- Employee list only shows once the filter is applied and the SEARCH button is activated. 
+			- It's functional but a filter feels like it should be applied after a list of employees is given. 
 			- A more practical UI would default to showing a list of the current active employees.
-			- Keep the toggles for Active/Inactive/All, but make the filter change automatic rather than require the use of a SEARCH
+			- Keep the toggles for Active/Inactive/All, but make the filter change automatic rather than requiring the use of a SEARCH
 			- Selecting the name should work to open the bottom row options like selecting the checkmark. 
 			- The filter via First Name/Last Name/Login works nice
 		- New Employee
@@ -151,7 +153,7 @@ Country list starts at Tokelau, continues T-Z, then restarts A-T
 ![image](https://user-images.githubusercontent.com/61430214/209235620-51168d8a-af4b-4d8b-bb34-305ee3f76df7.png)
 ![image](https://user-images.githubusercontent.com/61430214/209235702-23567c7e-a0c6-4d6c-a77e-43342bd398b8.png)
 
-Error Pop-up Message Duration automatically set to 0. Allowing users to edit the duration for all three pop-up durations is a great addition, but the error pop-up would probably do best to not be set to stay on indefinitely. 
+Error Pop-up Message Duration automatically set to 0. Allowing users to edit the duration for all three pop-up duration is a great addition, but the error pop-up would probably do best to not be set to stay on indefinitely. 
 ![image](https://user-images.githubusercontent.com/61430214/209851858-e706e70a-1a4b-4b6c-a30f-e781a1cb6548.png)
 
 Custom Seasons works as anticipated.
@@ -162,8 +164,8 @@ Password Change requests function as anticipated
 - Links to the Tech Tool Kit
 - Functions as anticipated 
 ## Language ##
-- Occasionally does not change language (could be a language setting on the computer)
-- Changing Lauguage in `Administration Console` does not change language either 
+- Occasionally does not change the language (could be a language setting on the computer)
+- Changing Language in `Administration Console` does not change the language either 
 	- Using the Dutch language setting
 ![image](https://user-images.githubusercontent.com/61430214/209696622-757e0f99-bbfb-43d5-a294-2d7f2ea355c9.png)
 
@@ -174,7 +176,7 @@ Password Change requests function as anticipated
 ![image](https://user-images.githubusercontent.com/61430214/209696415-36de6a10-6ebb-488d-af51-b5f57bd554ba.png)
 	
 - Help 
-	- Exits the Help menu, seems redundant. A simple back-arrow UI serves the same function and is universally known. 
+	- Exits the Help menu, seems redundant. A simple back-arrow UI serves the same function and is universally recognized. 
 - Index
 	- Links to https://my.retailpro.com/documentation/
 	- Works as anticipated
