@@ -85,7 +85,11 @@ Both work as anticipated
 - Departments
 	- Adding/Edition Departments seem to function without any issues	
 - Adjustment Memo Lookup
+	- Memo lookup works as anticipated 
+	- Created date descending is good, sometimes conflicts with Memo No.
+	![image](https://user-images.githubusercontent.com/61430214/210389306-b9b64287-20d6-4a2b-bd20-721933c57a0c.png)
 - Price Manager
+	- Markdown creation and calculations work without issue
 ### Purchasing ###
 - New Purchase Order
 - Purchase Order Lookup
@@ -99,6 +103,8 @@ All seem to work as expected. Adding a back button would be nice in details scre
 - New ASN
 - ASN Lookup
 - Pending ASNs
+
+Voucher/ASN menus work as anticipated. Would be good to be able to check multiple items at once. Additionally, adding a button to return to the New Voucher/ASN menu is more intuitive than double-clicking an item after selecting the checkmark.
 ### Transfers ###
 - New Transfer Slip
 - Transfer Slip Lookup
