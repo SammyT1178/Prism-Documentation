@@ -170,9 +170,11 @@ Password Change requests function as anticipated
 ![image](https://user-images.githubusercontent.com/61430214/209696622-757e0f99-bbfb-43d5-a294-2d7f2ea355c9.png)
 
 - `Tech Tool Kit` and `Change Password` options are available above and below the `Language` option
+
 ![image](https://user-images.githubusercontent.com/61430214/209696463-8ff505a0-99fc-4cee-8a9e-eaf95617a6f5.png)
 ## Help ##
 `Tech Tool Kit` and `Change Password` options are available above and below the `Help` option
+
 ![image](https://user-images.githubusercontent.com/61430214/209696415-36de6a10-6ebb-488d-af51-b5f57bd554ba.png)
 	
 - Help 
