@@ -41,7 +41,10 @@
 	- Profile Photo upload works
 	- Webcam Photo capture blocked by Chrome, need to test with other browser maybe
 	- Title in Customer Details has no options (Assuming it's titles like Mr., Ms., Dr., etc.)
-	![image](https://user-images.githubusercontent.com/61430214/209202786-8fcee737-f910-4fe0-9993-77579c2706bb.png)
+![image](https://user-images.githubusercontent.com/61430214/209202786-8fcee737-f910-4fe0-9993-77579c2706bb.png)
+		- Update: After digging through the Admin Console, documentation, and trying every combination of button presses, I managed to get into the menu the user can add titles. There are none by default
+![image](https://user-images.githubusercontent.com/61430214/210658196-fc2a64e1-b4b6-411b-8155-32412f533116.png)
+
 - Customer Loyalty
 	- Seems to work as expected
 ### X/Z-Out ###
