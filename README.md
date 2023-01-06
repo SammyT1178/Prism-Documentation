@@ -3,15 +3,16 @@
 ### Point of Sale ###
 - New Transaction
 	- Tendering transaction defaults the tender to cash, even when choosing options such as Credit Card or Check
+		- Could be an issue by not testing with card reader	
 	- This can happen (See `Administration Console`)
 	![image](https://user-images.githubusercontent.com/61430214/209235985-a9242f13-a717-4915-991c-487028b084fb.png)
 	
-- Transaction Lookup
+<!-- - Transaction Lookup 
 	- Seems to work as anticipated
 - Pending Transactions
 	- Seems to work as anticipated
 - New Disbursement
-	- Seems to work as anticipated
+	- Seems to work as anticipated  -->
 - Dispersement Lookup
 	- Not the largest issue, but when viewed in splitscreen, the Reset button no longer lines up with the rest of the buttons
 	- Since most POS sales would be done fullscreen, it's not a major issue
@@ -65,7 +66,7 @@ Both work as anticipated
 		- Filters for Price Level and Season are useful additions
 			- Maybe order Season menu option chronologically rather than alphabetically
 				- (Winter -> Spring -> Summer -> Fall -> Holiday -> None)?
-	- New Inventory
+	<!-- - New Inventory
 		- Item creation fairly straightforward
 		- Functions as expected
 	- Edit Inventory
@@ -76,7 +77,7 @@ Both work as anticipated
 	- Item Details
 		- Functions as expected
 	- Item Lookup/Style Lookup
-		- Filters work as anticipated 
+		- Filters work as anticipated -->
 	- Options
 		- The only option available is "Print Tags"
 			- Not sure if that's the only Inventory Option, if so ignore this note
@@ -129,12 +130,12 @@ Began testing; New Transfer works as anticipated. Suffers from the same issues a
 			- The filter via First Name/Last Name/Login works nice
 		- New Employee
 			- Setting new username/password works
-				- Test values used: (username/password)
+				<!--- Test values used: (username/password)
 					- (sjt0134/4697!)
 					- (ADMIN/ADMIN)
 					- (TEST/TEST)
 					- (USER/USER)
-				- Functions as expected
+				- Functions as expected -->
 		- Edit Employee
 			- Functions as expected
 		- Details 
