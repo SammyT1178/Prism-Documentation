@@ -1,3 +1,5 @@
+# Retail Pro Prism #
+
 ## Point of Sale ##
 
 ### Point of Sale ###
@@ -195,3 +197,10 @@ Password Change requests function as anticipated
 
 ## Logout ##
 - Functions as expected
+
+# Retail Pro Reports (Krunch) #
+
+## Installation ##
+
+- Reports download link not being under the `Retail Pro Reports (Krunch)` link could be confusing for those unaware of the Prism association
+![reports_krunch_download](https://user-images.githubusercontent.com/61430214/211359097-32db5f5a-1634-4df4-b975-62019be5ca6a.png)
