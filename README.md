@@ -204,3 +204,14 @@ Password Change requests function as anticipated
 
 - Reports download link not being under the `Retail Pro Reports (Krunch)` link could be confusing for those unaware of the Prism association
 ![reports_krunch_download](https://user-images.githubusercontent.com/61430214/211359097-32db5f5a-1634-4df4-b975-62019be5ca6a.png)
+
+## Krunch ##
+
+- After restarting Apache in Services, connecting Prism to Krunch works
+
+- Similarly to Prism, in a half-screen window will sometimes have visual glitches. 
+ 	- This example is under Field Map and only occures when the Sales and Adjustment catagories are selected
+ 		- Normal
+![image](https://user-images.githubusercontent.com/61430214/211865544-c34bf5d5-b2b8-43d1-a1e7-e74d7798bb3c.png)
+ 		- Visual Glitch 
+![image](https://user-images.githubusercontent.com/61430214/211865396-14d691a6-4e7b-4431-bf65-5adf4d5663d8.png)
