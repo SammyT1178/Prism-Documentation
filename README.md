@@ -217,3 +217,7 @@ Password Change requests function as anticipated
 ![image](https://user-images.githubusercontent.com/61430214/211865396-14d691a6-4e7b-4431-bf65-5adf4d5663d8.png)
 
 	- Same issue under Field Value Map
+	
+- Scheduled reports function normally. Same with the Dashboard and Report exporting. 
+- Outputs is a nice touch, well done.
+- Saving reports also works
