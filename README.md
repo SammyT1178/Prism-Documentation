@@ -215,8 +215,9 @@ Password Change requests function as anticipated
 ![image](https://user-images.githubusercontent.com/61430214/211865544-c34bf5d5-b2b8-43d1-a1e7-e74d7798bb3c.png)
  		- Visual Glitch 
 ![image](https://user-images.githubusercontent.com/61430214/211865396-14d691a6-4e7b-4431-bf65-5adf4d5663d8.png)
-
 	- Same issue under Field Value Map
+	- Same issue with the Advanced Report creation
+	![image](https://user-images.githubusercontent.com/61430214/212395460-4c8c01f5-9218-4e81-bdee-58fc016c169f.png)
 	
 - Scheduled reports function normally. Same with the Dashboard and Report exporting. 
 - Outputs is a nice touch, well done.
